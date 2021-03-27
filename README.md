@@ -1,28 +1,5 @@
 # DevOps Final Project
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project:
 
@@ -40,6 +17,8 @@ The team will need to plan, design and implement a solution for automating the d
 To achieve our goal, we have set our sprint planning meeting on every Friday for three weeks to discuss any issues we might have and set tasks for every team member to prepare for the next sprint.
 
 On the final week, we have decided to use common cloud technology and the group has split into two sub-teams to work on their allocated tasks, i.e. Terraform and Kubernetes. We have daily startup meeting to see the progress of the tasks. While it went well with the configuration of Kubernetes, some unforseen issues happened with the configuration of Terraform. The team has digged deep into the literature and the configuration issues have been resolved. For the automation deployment, the original plan was to use Ansible, however the discovery of the same functionality of Terraform make our project progress faster.
+
+![](https://github.com/WaledSalem/sigma-project/blob/Documentation/trello_board.jpg)
 
 <!-- CI Pipeline -->
 ## CI Pipeline
@@ -76,8 +55,8 @@ Terraform is an open-source tool and its easy to reuse and maintain module struc
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-1. Karolina Sura
-2. Serin Jeon
-3. Waled Salem
-4. Sabina Ku
-5. Irene Chung
+1. Karolina Sura  https://github.com/SuraKarolina 
+2. Serin Jeon  https://github.com/serin0837
+3. Waled Salem   https://github.com/WaledSalem
+4. Sabina Ku   https://github.com/sku899
+5. Irene Chung   https://github.com/i-chung
